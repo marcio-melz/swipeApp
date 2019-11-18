@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeApp</string>
+    <string name="answer">Resposta</string>
+    <string name="chosen_answer" >Resposta escolhida: %s</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="answerEmpty">Você deve informar uma resposta</string>
+    <string name="questionAlreadyAnswered">Pergunta já respondida!</string>
+</resources>
